@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desarrollo\\Aplication\\MntoClientes\\MntoClientes\\MntoClientes.vbproj",
+      "projectUniqueName": "C:\\Desarrollo\\ExpertisV6\\Aplication\\MntoClientes\\MntoClientes\\MntoClientes.vbproj",
       "projectName": "MntoClientes",
-      "projectPath": "C:\\Desarrollo\\Aplication\\MntoClientes\\MntoClientes\\MntoClientes.vbproj",
+      "projectPath": "C:\\Desarrollo\\ExpertisV6\\Aplication\\MntoClientes\\MntoClientes\\MntoClientes.vbproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Desarrollo\\Aplication\\MntoClientes\\MntoClientes\\obj\\",
+      "outputPath": "C:\\Desarrollo\\ExpertisV6\\Aplication\\MntoClientes\\MntoClientes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
