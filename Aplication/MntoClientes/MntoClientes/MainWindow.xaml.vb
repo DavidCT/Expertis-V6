@@ -11,7 +11,7 @@ Class MainWindow
 
     Private Sub MainWindow_Loaded(sender As Object, e As RoutedEventArgs) Handles Me.Loaded
         Try
-
+            MessageBox.Show("Esto es una prueba de una cambio para git.")
         Catch ex As Exception
             MessageBox.Show(ex.ToString)
         End Try
