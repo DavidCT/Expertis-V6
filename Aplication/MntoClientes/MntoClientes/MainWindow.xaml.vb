@@ -30,5 +30,6 @@ Class MainWindow
                 Return Nothing
             End If
         End Using
+        MessageBox.Show("Prueba")
     End Function
 End Class
